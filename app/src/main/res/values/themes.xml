@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GOOGLE_MAPS_MARCADORES_CONINTERFAZ_E_INFORMACION_PERSONALIZADA" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.GOOGLE_MAPS_MARCADORES_CONINTERFAZ_E_INFORMACION_PERSONALIZADA" parent="Base.Theme.GOOGLE_MAPS_MARCADORES_CONINTERFAZ_E_INFORMACION_PERSONALIZADA" />
+</resources>
