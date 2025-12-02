@@ -6,7 +6,7 @@ public class Messages {
     public static String ERROR="ERROR_APPLICATION";
     public static String STATUS_EMPTY="";
 
-    public static String SECRET_KEY_GOOGLE="AIzaSyAZmpF3k0bcm-3c-f_0feLZQZRwYu-gdr0";
+    public static String SECRET_KEY_GOOGLE="secret_key";
 
     public static String types []={"store","restaurant","lodging"};
 
